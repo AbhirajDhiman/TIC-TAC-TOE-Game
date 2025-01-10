@@ -1,9 +1,6 @@
-# TIC-TAC-TOE-Game
-This Tic Tac Toe game, created using HTML, CSS, and JavaScript, allows two players to compete by marking spaces on a 3x3 grid. The game tracks turns, detects wins and draws, and offers reset and new game options. It’s perfect for beginners to grasp DOM manipulation, event handling, and CSS transitions.🎮
-
 # Tic Tac Toe Game
 
-This Tic Tac Toe game is a web-based implementation using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, with the objective of being the first to align three of their marks in a row, column, or diagonal.
+This Tic Tac Toe game, created using HTML, CSS, and JavaScript, allows two players to compete by marking spaces on a 3x3 grid. The game tracks turns, detects wins and draws, and offers reset and new game options. It’s perfect for beginners to grasp DOM manipulation, event handling, and CSS transitions.🎮It allows two players to take turns marking spaces on a 3x3 grid, with the objective of being the first to align three of their marks in a row, column, or diagonal.
 
 ## Features
 - **Interactive UI:** Responsive user interface with dynamic button color changes based on player turns.
