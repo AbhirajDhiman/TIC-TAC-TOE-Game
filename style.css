@@ -51,14 +51,14 @@ h1{
 }
 .resetbutton,.newbutton {
     margin-top:30px;
-    padding: 1rem;
-    font-size:1.23rem;
+    padding: 10px;
+    font-size:20px;
     background-color: #191913;
     color: white;
     border-radius: 1rem;
     border: none;
     cursor: pointer;
-    height:50px;
+    height:60px;
     width:100px;
     text-align: center;
     justify-content: center;
@@ -74,8 +74,10 @@ h1{
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
     font-size: 1.56rem;
     margin-top:20px;
-    height:60px;
+    height:70px;
     width: 120px;
+    text-align: center;
+    justify-content: center;
 }
 #msg{
     color: #ffffc7;
